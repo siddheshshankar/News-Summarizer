@@ -87,6 +87,3 @@ in many ways:
     headlines, and generate summaries.
 
 ------------------------------------------------------------------------
-
-👉 With this app, staying updated on important news becomes simple,
-quick, and efficient.
